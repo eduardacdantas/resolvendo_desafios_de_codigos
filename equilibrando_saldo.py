@@ -6,4 +6,5 @@ def equilibrar_saldo():
      valor_retirada = float(input())
      saldo += saldo_atual + valor_deposito - valor_retirada
      print(f'O saldo final é:R$ {saldo:.1f}')
+
 equilibrar_saldo()
