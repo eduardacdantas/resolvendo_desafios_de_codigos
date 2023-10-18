@@ -1,4 +1,5 @@
 
+
 def equilibrar_saldo():
      saldo = 0 
      saldo_atual = float(input())
